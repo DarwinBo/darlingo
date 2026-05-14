@@ -1,9 +1,9 @@
 {
   "name": "Darlingo",
   "short_name": "Darlingo",
-  "description": "Aprende inglés en serio con IA personalizada. Lecciones, podcasts, pronunciación, tests, cine y más.",
-  "start_url": "/",
-  "scope": "/",
+  "description": "Aprende inglés con IA personalizada. Lecciones, podcasts, pronunciación, tests, cine y más.",
+  "start_url": "/darlingo/",
+  "scope": "/darlingo/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#f4efe6",
